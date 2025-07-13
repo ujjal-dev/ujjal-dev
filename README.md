@@ -18,6 +18,8 @@
 ## 🧑‍💻 Cybersecurity Learning
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Ujjal04.png)](https://tryhackme.com/p/Ujjal04)
+<img src="https://tryhackme-badges.s3.amazonaws.com/Ujjal04.png" alt="Your Image Badge" />
+
 
 
 
