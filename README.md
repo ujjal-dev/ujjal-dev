@@ -18,7 +18,9 @@
 ## 🧑‍💻 Cybersecurity Learning
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Ujjal04.png)](https://tryhackme.com/p/Ujjal04)
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4678244" style='border:none;'></iframe>
+
+<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4678244" style='border:none;'/>
+
 
 
 
