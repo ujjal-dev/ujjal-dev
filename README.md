@@ -18,11 +18,12 @@
 ## 🧑‍💻 Cybersecurity Learning
 
 
+<img width="329" height="88" alt="Ujjal04" src="https://github.com/user-attachments/assets/b0ec2f05-d8e0-4df4-84cd-6257851e2b30" />
 
 
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Ujjal04.png" alt="Your Image Badge" />
+
 
 
 
