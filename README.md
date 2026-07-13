@@ -1,33 +1,107 @@
-<h1 align="center">Hi 👋, I'm Ujjal Mandal</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h1 align="center">Hi there, I'm Ujjal Mandal 👋</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjal-dev" alt="ujjal-dev" /></a> </p>
-
-- 🌱 I’m currently learning **Mern stack , MongoDB , SQL .**
-
-- 👨‍💻 All of my projects are available at [https://ujjal-dev.github.io/Portfolio/](https://ujjal-dev.github.io/Portfolio/)
-
-- 📫 How to reach me **ujjalmandal8353@gmail.com**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ujjalmandal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjalmandal07" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Cybersecurity+%2F+Pentest+Learner;Building+Cool+Things+with+Code" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-## 🧑‍💻 Cybersecurity Learning
+<p align="center">
+  <a href="https://linkedin.com/in/ujjalmandal07">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ujjalmandal8353@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://ujjal-dev.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ujjal-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/ujjal-dev?label=Followers&style=social" alt="followers" />
+</p>
 
-<img width="329" height="88" alt="Ujjal04" src="https://github.com/user-attachments/assets/b0ec2f05-d8e0-4df4-84cd-6257851e2b30" />
+---
 
+### 🧑‍💻 About Me
 
+- 🌱 Currently learning **MERN Stack, MongoDB, and SQL**
+- 💻 Full Stack Developer based in **Haldia, India**
+- 🛡️ Exploring **Cybersecurity & Penetration Testing** (Nmap, SQLmap, Hydra, FFUF, Gobuster, Nikto)
+- 🔭 Building **CyberKit** — a web platform that simplifies popular pentest CLI tools
+- 👨‍💻 All my projects live at **[ujjal-dev.github.io/Portfolio](https://ujjal-dev.github.io/Portfolio/)**
+- 📫 Reach me at **ujjalmandal8353@gmail.com**
+- ⚡ Fun fact: I enjoy turning terminal chaos into clean UI
 
+---
 
+### 🛠️ Languages & Tools
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,react,nodejs,express,django,python,mongodb,mysql,firebase,git,linux&perline=7" alt="skills" />
+</p>
 
+---
 
+### 🎯 Cybersecurity Toolkit
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,kali&perline=6" alt="cyber skills" />
+</p>
 
+> Nmap • SQLmap • Hydra • FFUF • Gobuster • Nikto
 
+---
 
+### 📌 Pinned Projects
 
+<p align="center">
+  <a href="https://github.com/ujjal-dev/Nmap-commands">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjal-dev&repo=Nmap-commands&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/ujjal-dev/CyberKit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjal-dev&repo=CyberKit&theme=tokyonight" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ujjal-dev/Portfolio-2.0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjal-dev&repo=Portfolio-2.0&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ujjal-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjal-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjal-dev&theme=tokyonight&hide_border=true" alt="streak stats" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ujjal-dev&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjal-dev&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:9D00FF&height=100&section=footer" />
+</p>
+
+<h3 align="center">🚀 Thanks for visiting my profile! Let's build something great together.</h3>
